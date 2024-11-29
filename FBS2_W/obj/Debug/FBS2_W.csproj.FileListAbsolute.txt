@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\SeatSelectionWindow.baml
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\SeatSelectionWindow.g.cs
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W_MarkupCompile.cache
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.g.resources
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.Properties.Resources.resources
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\bin\Debug\FBS2_W.exe.config
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\bin\Debug\FBS2_W.exe
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\bin\Debug\FBS2_W.pdb
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.exe
+C:\Users\ASUS\source\repos\FBS2\FBS2_W\obj\Debug\FBS2_W.pdb
